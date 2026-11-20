@@ -1,0 +1,4 @@
+LIBRARY babur
+EXPORTS
+    VSTPluginMain
+    main=VSTPluginMain

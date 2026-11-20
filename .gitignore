@@ -1,0 +1,20 @@
+# Build outputs & compiled binaries
+bin/
+dist/
+*.o
+*.obj
+*.exe
+*.dll
+*.vst3
+*.lib
+*.exp
+*.pdb
+
+# Test audio artifacts & SoundFonts
+*.wav
+*.sf2
+
+# OS / IDE clutter
+.DS_Store
+Thumbs.db
+.vscode/
